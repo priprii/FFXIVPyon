@@ -2,7 +2,7 @@
 
 ## Installation
 
-- Download FFXIVPyon from [here](https://github.com/priprii/FFXIVPyon/releases/download/1.0.1/FFXIVPyon.zip)
+- Download FFXIVPyon [here](https://github.com/priprii/FFXIVPyon/releases/latest/download/FFXIVPyon.zip)
 - In Blender:
   - Edit > Preferences > Addons
   - Click the arrow in top-right > Install from Disk... > Locate the downloaded `FFXIVPyon.zip`
