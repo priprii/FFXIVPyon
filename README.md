@@ -1,5 +1,15 @@
 *A Blender addon for assisting with FFXIV modding workflows.*
 
+> [!NOTE]
+> This addon is in active development, the below documentation may be outdated.
+> 
+> FFXIVPyon v2.0 Upcoming Changes:
+> - Reorganized UI layout
+> - Changes to import/retarget/weighting operations
+> - Additional body import options
+> - Addition of advanced weighting operation
+> - Addition of Export operation (FBX/MDL)
+
 ## Installation
 
 - Download FFXIVPyon [here](https://github.com/priprii/FFXIVPyon/releases/latest/download/FFXIVPyon.zip)
