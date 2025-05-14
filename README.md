@@ -9,6 +9,8 @@
 > - Additional body import options
 > - Addition of advanced weighting operation
 > - Addition of Export operation (FBX/MDL)
+> - Removal of Upscaling operation as the basic functionality of this is exists with import/retargeting
+> - Upscaling operation will later return as a feature for automating mesh deforms
 
 ## Installation
 
