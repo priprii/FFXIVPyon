@@ -3,14 +3,22 @@
 > [!NOTE]
 > This addon is in active development, the below documentation may be outdated.
 > 
-> FFXIVPyon v2.0 Upcoming Changes:
+> FFXIVPyon v2.X Upcoming Changes:
 > - Reorganized UI layout
 > - Changes to import/retarget/weighting operations
-> - Additional body import options
-> - Addition of advanced weighting operation
-> - Addition of Export operation (FBX/MDL)
-> - Removal of Upscaling operation as the basic functionality of this is exists with import/retargeting
-> - Upscaling operation will later return as a feature for automating mesh deforms
+> - Additional body import options (more preset bodies, glTF/MDL file import)
+> - More reliable weighting operations
+> - Adding of texture projection operation
+> - Addition of export operation (FBX/glTF/MDL)
+> - Removal of Upscaling operation as the basic functionality of this exists with import/retargeting/weighting
+> - Upscaling operation will later return as a feature for simplifying mesh deforms
+>
+> Future Changes:
+> - Full character import (from MCDF)
+> - Import/Export textures (TEX) & animations (PAP)
+> - Full mod import (PMP) with mod merging support
+> - Full mod export (PMP)
+> - Animation & facial expression editing operations
 
 ## Installation
 
