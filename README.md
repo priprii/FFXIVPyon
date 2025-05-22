@@ -1,17 +1,10 @@
 *A Blender addon for assisting with FFXIV modding workflows.*
 
 > [!NOTE]
-> This addon is in active development, the below documentation may be outdated.
-> 
 > FFXIVPyon v2.X Upcoming Changes:
-> - Reorganized UI layout
-> - Changes to import/retarget/weighting operations
 > - Additional body import options (more preset bodies, glTF/MDL file import)
-> - More reliable weighting operations
-> - Adding of texture projection operation
 > - Addition of export operation (FBX/glTF/MDL)
-> - Removal of Upscaling operation as the basic functionality of this exists with import/retargeting/weighting
-> - Upscaling operation will later return as a feature for simplifying mesh deforms
+> - Addition of upscaling operation for simplifying mesh deforms
 >
 > Future Changes:
 > - Full character import (from MCDF)
@@ -28,6 +21,14 @@
   - Click the arrow in top-right > Install from Disk... > Locate the downloaded `FFXIVPyon.zip`
   - Search 'FFXIVPyon' & check the box to enable it.
   - You should now find FFXIVPyon in the Tools panel (hotkey 'N')
+
+## Updating
+
+- Follow steps as above, but uninstall the current version from Preferences > Addons, prior to installing new version
+
+> [!NOTE]
+> This addon is in active development, the below documentation is currently outdated.
+> I will soon create demonstration videos for the various features of this addon instead of the below walls of text :3
 
 ## YAS Automation
 
