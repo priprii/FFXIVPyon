@@ -1,4 +1,4 @@
-*A Blender addon for assisting with FFXIV modding workflows, developed by Primu Pyon.*
+*A Blender addon for assisting with FFXIV modding workflows, developed by Pyon.*
 
 > [!NOTE]
 > FFXIVPyon v2.X Upcoming Changes:
