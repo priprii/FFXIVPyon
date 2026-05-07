@@ -1,20 +1,8 @@
 *A Blender addon for assisting with FFXIV modding workflows, developed by Pyon.*
 
 > [!NOTE]
-> FFXIVPyon v2.X Upcoming Changes:
-> - Additional body import options (more preset bodies & selective import)
-> - Model import/export operation (glTF/MDL)
-> - Mod import/export operation (PMP+options with Penumbra auto-install)
-> - Upscaling operation for simplifying mesh deforms
-> 
-> Import/export changes are because I dislike having to use TexTools, and glTF Import/Export in Penumbra often fails.
->
 > Future Changes:
-> - Full character import (from MCDF & in-game Renderer)
-> - Import/Export textures (TEX) & animations (PAP)
-> - Animation & facial expression editing operations
-> - Automatic IK/constraints on rig for easier animation
-> - Automatic physics on ears/tails for animations that were not made with wiggles in mind
+> - I'm setting my expectations for what I want to achieve with this addon back a bit because I am very busy with other projects. But I would like to get around to adding some tools for simplifying workflow of creating/editing animations eventually.
 
 ## Installation
 
@@ -32,7 +20,7 @@
 
 > [!NOTE]
 > This addon is in active development, there is currently minimal documentation but feel free to contact me on Discord (id: Primu) if you need help with anything.
-> I will soon create demonstration videos for the various features of this addon when I'm done implementing 2.X changes.
+> I will soon create demonstration videos for the various features of this addon.
 
 ## Features
 
@@ -41,7 +29,9 @@
 > 
 > This is the resulting formatting when exporting mods via TexTools to FBX format
 > 
-> Penumbra glTF export may result in different naming format which is not yet supported, but will be supported in the next update
+> I would not recommend using Penumbra glTF export, TexTools workflow is more stable
+
+The below previews are a bit outdated, I am lazy
 
 ![image](https://github.com/user-attachments/assets/57a83f9c-a034-4e4a-bb7c-4a0be9959f39) Import body for upscaling and/or weighting reference
 
@@ -50,4 +40,12 @@
 ![image](https://github.com/user-attachments/assets/0d6e7833-fc24-4ec7-8a38-f8d2ac270fed) Assign weights to selected objects using upscaled body as weighting reference
 
 ![image](https://github.com/user-attachments/assets/79ae7907-3f60-481f-abc1-e29c8d89764c) Real-time projection of textures for easy doodling on your body/clothes
+
+## Credits
+
+> Weight Transfer Mode C is based on the projects below with some FFXIV specific changes:
+> 
+> https://github.com/rin-23/RobustSkinWeightsTransferCode
+>
+> https://github.com/sentfromspacevr/robust-weight-transfer
 
